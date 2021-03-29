@@ -12,3 +12,6 @@ By clicking solve button the table will filled and current game is over.
 Click hint button show you that wich input is incorrect in red color. 
 
 
+#sudoku
+#pyqt5
+#python
